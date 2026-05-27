@@ -1,0 +1,17 @@
+DualWallpaper System Module
+---------------------------
+
+Module Creator: Mohamed Zaitoon
+
+Original App Repository:
+https://github.com/Yanndroid/DualWallpaper
+
+This module installs DualWallpaper as a system application using KernelSU, Magisk, APatch, or compatible root solutions.
+
+This module only provides system integration and installation support.
+
+The module does not claim ownership of the original application, source code, assets, trademarks, or intellectual property.
+
+All rights to the original application remain with the original project owners.
+
+This project is independent and is not affiliated with Xiaomi, Google, Yanndroid, or the original project owners.

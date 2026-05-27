@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="de.dlyt.yanndroid.dualwallpaper">
+
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+        <permission name="android.permission.WAKE_LOCK"/>
+
+        <permission name="android.permission.SET_WALLPAPER"/>
+        <permission name="android.permission.SET_WALLPAPER_HINTS"/>
+
+        <permission name="android.permission.POST_NOTIFICATIONS"/>
+
+        <permission name="android.permission.READ_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.READ_MEDIA_IMAGES"/>
+        <permission name="android.permission.READ_MEDIA_VISUAL_USER_SELECTED"/>
+
+        <permission name="android.permission.FOREGROUND_SERVICE"/>
+
+    </privapp-permissions>
+</permissions>
