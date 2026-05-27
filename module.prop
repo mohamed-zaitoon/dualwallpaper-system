@@ -6,4 +6,4 @@ author=Mohamed Zaitoon (Module Creator)
 description=Install DualWallpaper as system app
 url=*https://github.com/Yanndroid/DualWallpaper
 original_author=Yanndroid (Original App Developer)
-updateJson=https://raw.githubusercontent.com/mohamed-zaitoon/dualwallpaper-system/master/update.json
+updateJson=https://raw.githubusercontent.com/mohamed-zaitoon/dualwallpaper-system/main/update.json
